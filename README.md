@@ -1,1 +1,1 @@
-# Files pertaining to CS 189: Introduction to Machine Learning
+# Manually implemented algorithms for CS 189: Introduction to Machine Learning
